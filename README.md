@@ -7,4 +7,4 @@ Syntaxis of the main model for reproducing the analysis of Alonso-Llamazares et 
 2. priors_ec_sex_brm: 
 Syntaxis to generate the prior distributions used on the analysis of Alonso-Llamazares et al. (2021), for analyzing the distribution of entheseal changes (EC).
 
-Alonso-Llamazares, C.; Lopez, B. & Pardiñas, A. (2021). Sex differences in the distribution of entheseal changes: Meta-analysis of published evidence and its use in Bayesian paleopathological modelling.
+Alonso-Llamazares, C.; Lopez, B. & Pardiñas, A. (2021). Sex differences in the distribution of entheseal changes: Meta-analysis of published evidence and its use in Bayesian paleopathological modelling. DOI: https://doi.org/10.1002/ajpa.24425
